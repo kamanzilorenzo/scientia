@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "289293180848",
+    "project_id": "scie-7f98b",
+    "storage_bucket": "scie-7f98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289293180848:android:f1052185a4cfc1b3ed0075",
+        "android_client_info": {
+          "package_name": "com.example.scientiademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289293180848-4cvdpu6b4ffcrr498lafvaf7m9gni06l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Lh7flRFE8lhGsD0vhzOnpxVzFVk_2ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289293180848-4cvdpu6b4ffcrr498lafvaf7m9gni06l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "289293180848-6kmioa1r81h9k5jmbjo2ltr37260budk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codefox.scientia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
