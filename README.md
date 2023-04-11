@@ -160,7 +160,7 @@ Project Link: [https://github.com/kamanzilorenzo/scientia](https://github.com/ka
 [issues-shield]: https://img.shields.io/github/issues/kamanzilorenzo/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/kamanzilorenzo/scientia/issues
 [license-shield]: https://img.shields.io/github/license/kamanzilorenzo/sciencia.svg?style=for-the-badge
-[license-url]: https://github.com/kamanzilorenzo/scientia/LICENSE.txt
+[license-url]: https://github.com/kamanzilorenzo/scientia/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
